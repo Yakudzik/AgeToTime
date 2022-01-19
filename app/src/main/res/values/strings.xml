@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Age to Time</string>
+    <string name="title_1">Calculate your</string>
+    <string name="button">Select birth day</string>
+    <string name="select_date">selected date</string>
+    <string name="years">Age in years</string>
+    <string name="days">Age in days</string>
+    <string name="minutes">Age in minutes</string>
+    <string name="seconds">Age in seconds</string>
+    <string name="title_2">AGE</string>
+
+    <string name="resultSeconds">seconds</string>
+    <string name="resultMinutes">minutes</string>
+    <string name="resultDays">days</string>
+    <string name="resultYears">years</string>
+    <string name="AgeToTime" tools:ignore="MissingTranslation" />
+    <string name="title_activity_to_locale" tools:ignore="MissingTranslation" />
+</resources>

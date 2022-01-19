@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Возраст во время</string>
+    <string name="title_1">Посчитай свой</string>
+    <string name="button">Выберите дату рождения</string>
+    <string name="select_date">выбранная дата</string>
+    <string name="years">Возраст в годах</string>
+    <string name="days">Возраст в днях</string>
+    <string name="minutes">Возраст в минутах</string>
+    <string name="seconds">Возраст в секундах</string>
+    <string name="title_2">ВОЗРАСТ</string>
+    <string name="resultSeconds">секунд</string>
+    <string name="resultMinutes">минут</string>
+    <string name="resultDays">дней</string>
+    <string name="resultYears">лет</string>
+</resources>
